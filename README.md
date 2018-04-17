@@ -9,9 +9,10 @@ This is a summary of openly available implementations (software deliverables) cr
 
 ### Concept Extraction and Disambiguation (deliverable 2.3)
 - [yarn](https://github.com/clips/yarn): Disambiguating biomedical and clinical concepts with word embeddings
+![Alt text](images/sunflower_pic.png "Title")
 
 - [conch](https://github.com/clips/conch): Extracting medical concepts and terminology from patient records, and linking them to UMLS CUI 
-![Alt text](images/sunflower_pic.png "Title")
+![Alt text](images/conch.png "Title")
 
 ### Event Semantics (deliverable 3.1)
 
