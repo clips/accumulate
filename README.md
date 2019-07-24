@@ -26,7 +26,7 @@ This is a summary of openly available implementations (software deliverables) cr
 
 
 ## Contributors
-[Walter Daelemans](https://www.clips.uantwerpen.be/~walter/), [Pieter Fivez](https://www.clips.uantwerpen.be/people/pieter-fivez), [Simon Šuster](http://simonsuster.github.io/), [Stéphan Tulkens](http://stephantul.github.io/, [Madhumita Sushil](https://madhumitasushil.github.io/))
+[Walter Daelemans](https://www.clips.uantwerpen.be/~walter/), [Pieter Fivez](https://www.clips.uantwerpen.be/people/pieter-fivez), [Simon Šuster](http://simonsuster.github.io/), [Stéphan Tulkens](http://stephantul.github.io/), [Madhumita Sushil](https://madhumitasushil.github.io/))
 
 ## Licensing
 See individual repositories.
